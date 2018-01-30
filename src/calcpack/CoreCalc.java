@@ -7,12 +7,6 @@ public class CoreCalc {
 		return result;
 	}
 	
-	public int multiply(int a, int b) {
-		System.out.println("MULTIPLE....");
-		
-		return a*b;
-	}
-	
 	public int divide(int a, int b) {
 		return a/b;
 	}
